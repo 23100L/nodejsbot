@@ -1,4 +1,7 @@
 NzM0MjQ4MjI1MzgwMzY4NDE0.XxPCbw.s5dnGXpQMzXcaUyK2td2FUPEgc8
 
 
-업로드하기
+업로드하기 : 그냥 돋보기 밑에 메세지란에 뭔가를 입력(변경점같은거)하고 체크 버튼만 누르면 업로드됌
+그리고 체크 오른쪽 점점점 표시를 누르고 '다음으로푸시'버튼을 누르고 뭐뜨면 그거 선택. 봇에 적용됌
+이제 heroku 사이트 https://dashboard.heroku.com/apps/nodejsfor23100/settings
+   비번은 브@4임.     가서 디플로잉 브랜치해준다.   그럼 적용완료
